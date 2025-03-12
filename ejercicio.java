@@ -19,7 +19,7 @@ public class ejercicio1 {
                 ceros++;
             }
         }
-
+** TU PUTA MAMI ES UNA GORDA
         System.out.println("\nResultados:");
         System.out.println("Positivos: " + positivos);
         System.out.println("Negativos: " + negativos);
