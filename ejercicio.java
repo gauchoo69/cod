@@ -20,6 +20,10 @@ public class ejercicio1 {
             }
         }
 
+        **TU puta madre es una flaca
+
+                EL manin es un manin
+
         System.out.println("\nResultados:");
         System.out.println("Positivos: " + positivos);
         System.out.println("Negativos: " + negativos);
